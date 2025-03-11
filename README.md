@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Uday</h1>
-<p>A passionate Full stack developer</p>
+<p>I'm Uday, a web developer skilled in both frontend and backend technologies, including HTML, CSS, JavaScript, and RESTful API development. Passionate about building scalable, user-friendly web applications and eager to contribute to impactful projects.</p>
 <h2>🚀 Tech Stack:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
